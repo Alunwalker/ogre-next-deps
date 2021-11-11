@@ -1,18 +1,18 @@
 [submodule "src/SDL2"]
 	path = src/SDL2
-	url = https://github.com.cnpmjs.org/spurious/SDL-mirror.git
+	url = https://hub.fastgit.org/spurious/SDL-mirror.git
 [submodule "src/vulkan/shaderc/src/third_party/effcee"]
 	path = src/vulkan/shaderc/src/third_party/effcee
-	url = https://github.com.cnpmjs.org/google/effcee
+	url = https://hub.fastgit.org/google/effcee
 [submodule "src/vulkan/shaderc/src/third_party/glslang"]
 	path = src/vulkan/shaderc/src/third_party/glslang
-	url = https://github.com.cnpmjs.org/KhronosGroup/glslang
+	url = https://hub.fastgit.org/KhronosGroup/glslang
 [submodule "src/vulkan/shaderc/src/third_party/googletest"]
 	path = src/vulkan/shaderc/src/third_party/googletest
-	url = https://github.com.cnpmjs.org/google/googletest
+	url = https://hub.fastgit.org/google/googletest
 [submodule "src/vulkan/shaderc/src/third_party/re2"]
 	path = src/vulkan/shaderc/src/third_party/re2
-	url = https://github.com.cnpmjs.org/google/re2
+	url = https://hub.fastgit.org/google/re2
 [submodule "src/vulkan/shaderc/src/third_party/spirv-tools/external/spirv-headers"]
 	path = src/vulkan/shaderc/src/third_party/spirv-tools/external/spirv-headers
-	url = https://github.com.cnpmjs.org/KhronosGroup/SPIRV-Headers
+	url = https://hub.fastgit.org/KhronosGroup/SPIRV-Headers
